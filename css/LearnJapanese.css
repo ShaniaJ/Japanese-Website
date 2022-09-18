@@ -1,9 +1,25 @@
 body {
   text-align: center;
+  background-color: #FAEBD7;
 }
 
 a {
-  
+  background-color: #FFF;
+  border-radius: 10px;
+  padding: 12px;
+  text-decoration: none;
+  color: #8B4513;
+}
+
+a:hover {
+  background-color: #F5DEB3;
+}
+
+li {
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 16px;
+
 }
 
 div {
@@ -14,3 +30,8 @@ div {
 img {
 
 }
+
+h1.headline {
+  color: #8B4513;
+}
+/*D2B48C*/
