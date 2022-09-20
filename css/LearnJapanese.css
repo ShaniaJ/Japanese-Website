@@ -47,3 +47,27 @@ div.topPortion {
   color: #8B4513;
   text-align: left;
 }
+
+div.middlePortion {
+  display: inline-block;
+  margin-top: 60px;
+  color: #8B4513;
+}
+
+table {
+  width: 75%;
+  display: inline-block;
+}
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #FFFFFF;
+  border-color: #8B4513;
+  padding: 12px;
+  width: 50%;
+}
+
+
