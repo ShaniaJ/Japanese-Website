@@ -27,6 +27,10 @@ li {
 
 }
 
+
+/*Top of Page*/
+
+
 div.topPortion {
   display: flex;
   margin-top: 50px;
@@ -35,8 +39,8 @@ div.topPortion {
 
 .topPortion img {
   float: right;
-  width: 375px;
   height: 250px;
+  width: 375px;
   margin-top: 10px;
 }
 
@@ -49,6 +53,10 @@ div.topPortion {
   color: #8B4513;
   text-align: left;
 }
+
+
+/*Middle of Page*/
+
 
 div.middlePortion {
   display: inline-block;
@@ -72,4 +80,45 @@ th, td {
   width: 50%;
 }
 
+/*Bottom of page*/
 
+
+div.bottomPortion {
+  display: flex;
+  margin-top: 30px;
+}
+
+div.bottomImages {
+  display: block;
+}
+
+img.shrine {
+  height: 270px;
+  width: 500px;
+}
+
+img.kana {
+  height: 250px;
+  width: 600px;
+}
+
+div.headerAndText {
+  color: #8B4513;
+  margin-top: 50px;
+  margin-right: 25px;
+  text-align: right;
+}
+
+div.headerAndText h3 {
+  text-align: center;
+}
+
+
+
+
+/*Etc*/
+
+
+figcaption {
+  color: #800000;
+}
