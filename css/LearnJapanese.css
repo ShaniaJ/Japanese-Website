@@ -4,9 +4,8 @@ body {
 }
 
 h1.headline {
-  color: #8B4513;
+  color: #8B4513;;
 }
-
 
 a {
   background-color: #FFF;
@@ -115,8 +114,6 @@ div.headerAndText {
 div.headerAndText h3 {
   text-align: center;
 }
-
-
 
 
 /*Etc*/
