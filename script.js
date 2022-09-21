@@ -13,7 +13,7 @@ function toggleColor() {
 		document.getElementById("bottomText").style.color = "#8B4513";
 	} else {
 		document.getElementById("topH1").style.color = 'white';
-		document.getElementById("bodyElement").style.backgroundColor = 'black';
+		document.getElementById("bodyElement").style.backgroundColor = '#696969';
 		document.getElementById("homepageLink").style.color = "#B22222";
 		document.getElementById("topPortionP").style.color = "white";
 		document.getElementById("fcap").style.color = "#B22222";
