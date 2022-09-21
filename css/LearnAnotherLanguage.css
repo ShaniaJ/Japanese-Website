@@ -1,10 +1,37 @@
 body {
-  
+  text-align: center;
+  background-color: #E6E6FA;
+}
+
+h1 {
+	color: #9370DB;
 }
 
 a {
-  
+  background-color: #FFF;
+  border-radius: 10px;
+  padding: 12px;
+  text-decoration: none;
+  color: #9370DB;
 }
+
+a:hover {
+	background-color: #F8F8FF;
+}
+
+li {
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 16px;
+
+}
+
+button {
+  margin-left: 85%;
+}
+
+/*Top of Page*/
+
 
 div {
    

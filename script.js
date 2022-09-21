@@ -23,3 +23,7 @@ function toggleColor() {
 	}
 }
 
+
+function toggleColorLALP() {
+	
+}
